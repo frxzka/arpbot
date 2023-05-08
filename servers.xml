@@ -1,0 +1,186 @@
+<!-- This file was created by github.com/k1zn -->
+
+<server>
+    <name>Arizona Role Play 1 | Phoenix</name>
+    <address>185.169.134.3:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 2 | Tucson</name>
+    <address>185.169.134.4:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 3 | Scottdale</name>
+    <address>185.169.134.43:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 4 | Chandler</name>
+    <address>185.169.134.44:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 5 | Brainburg</name>
+    <address>185.169.134.45:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 6 | Saint Rose</name>
+    <address>185.169.134.5:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 7 | Mesa</name>
+    <address>185.169.134.59:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 8 | Red-Rock</name>
+    <address>185.169.134.61:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 9 | Yuma</name>
+    <address>185.169.134.107:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 10 | Surprise</name>
+    <address>185.169.134.109:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 11 | Prescott</name>
+    <address>185.169.134.166:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 12 | Glendale</name>
+    <address>185.169.134.171:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 13 | Kingman</name>
+    <address>185.169.134.172:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 14 | Winslow</name>
+    <address>185.169.134.173:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 15 | Payson</name>
+    <address>185.169.134.174:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 16 | Gilbert</name>
+    <address>80.66.82.191:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 17 | Show Low</name>
+    <address>80.66.82.190:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 18 | Casa Grande</name>
+    <address>80.66.82.188:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 19 | Page</name>
+    <address>80.66.82.168:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 20 | Sun City</name>
+    <address>80.66.82.159:7777</address>
+</server>
+
+<server>
+    <name>Arizona Role Play 21 | Queen Creek</name>
+    <address>80.66.82.200:7777</address>
+</server>
+
+<server>
+    <name>Advance Role Play | Red</name>
+    <address>54.37.142.72:7777</address>
+</server>
+
+<server>
+    <name>Advance Role Play | Green</name>
+    <address>54.37.142.73:7777</address>
+</server>
+
+<server>
+    <name>Advance Role Play | Blue</name>
+    <address>54.37.142.74:7777</address>
+</server>
+
+<server>
+    <name>Advance Role Play | Lime</name>
+    <address>54.37.142.75:7777</address>
+</server>
+
+<server>
+    <name>Diamond Role Play | Emerald</name>
+    <address>emerald.diamondrp.ru:7777</address>
+</server>
+
+<server>
+    <name>Diamond Role Play | Trilliant</name>
+    <address>trilliant.diamondrp.ru:7777</address>
+</server>
+
+<server>
+    <name>Diamond Role Play | Ruby</name>
+    <address>ruby.diamondrp.ru:7777</address>
+</server>
+
+<server>
+    <name>Evolve Role Play 01 | Saint-Louis</name>
+    <address>185.169.134.67:7777</address>
+</server>
+
+<server>
+    <name>Evolve Role Play 02 | Rochester</name>
+    <address>185.169.134.68:7777</address>
+</server>
+
+<server>
+    <name>Evolve Role Play 03 | Cleveland</name>
+    <address>185.169.134.91:7777</address>
+</server>
+
+<server>
+    <name>Samp-RP | 02</name>
+    <address>s2.samp-rp.ru:7777</address>
+</server>
+
+<server>
+    <name>Samp-RP | Revolution</name>
+    <address>revo.samp-rp.ru:7777</address>
+</server>
+
+<server>
+    <name>Samp-RP | Classic</name>
+    <address>classic.samp-rp.ru:7777</address>
+</server>
+
+<server>
+    <name>Samp-RP | Legacy</name>
+    <address>legacy.samp-rp.ru:7777</address>
+</server>
+
+<server>
+    <name>HackMySoftware - Cheating Server</name>
+    <address>cheating.hackmysoftware.ru:7228</address>
+</server>
+
+<server>
+    <name>SR_team cheating server</name>
+    <address>samp.sr.team:1337</address>
+</server>
